@@ -1,14 +1,14 @@
 {
-  "name": "passport-paypal-oauth",
-  "version": "0.1.0",
+  "name": "passport-paypal-oauth-e10",
+  "version": "0.1.2",
   "description": "PayPal (OAuth) authentication strategy for Passport.",
   "keywords": ["passport", "paypal", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-paypal-oauth.git"
+    "url": "git://github.com/e10/passport-paypal-oauth.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-paypal-oauth/issues"
+    "url": "https://github.com/e10/passport-paypal-oauth/issues"
   },
   "author": {
     "name": "Jared Hanson",
